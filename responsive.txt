@@ -1,0 +1,18 @@
+Media Queries 
+
+=> Add background color in body to check 
+
+1. Mobile Phones
+
+@media (max-width: 767px) { } 
+
+2. Tablets devices 
+
+@media (min-width: 768px) and (max-width: 991px) { }
+
+3. Laptop and Desktop 
+
+@media (min-width: 992px) and (max-width: 1199px) { }
+
+
+Use max-width and min-height insted of seting fixed width and height media queries some times not works always use ,  max-width and min-height 
